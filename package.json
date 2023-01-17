@@ -1,0 +1,24 @@
+{
+  "name": "ramdom-string-msg.ejemplo",
+  "version": "1.0.0",
+  "description": "mensaje en string al azar.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juliangomez91/ramdom-string-msg.ejemplo.git"
+  },
+  "keywords": [],
+  "author": "Julian Gomez <c3.gomez9105@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juliangomez91/ramdom-string-msg.ejemplo/issues"
+  },
+  "homepage": "https://github.com/juliangomez91/ramdom-string-msg.ejemplo#readme",
+  "bin": {
+   "ramdom-string.msg.ejemplo": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
